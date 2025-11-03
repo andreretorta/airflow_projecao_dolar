@@ -1,7 +1,3 @@
-# airflow_projecao_dolarAqui está um **README.md** sugerido para o repositório **airflow_projecao_dolar**, adaptado conforme as informações encontradas no GitHub e organizado para facilitar uso, desenvolvimento e contribuição.
-
----
-
 # Airflow Projeção Dólar
 
 Projeto em Python que utiliza Apache Airflow para orquestrar tarefas relacionadas à projeção da taxa de câmbio do dólar.
@@ -82,7 +78,3 @@ Este projeto está sob a [MIT License](LICENSE) — sinta-se à vontade para usa
 ## Contato
 
 Para dúvidas ou sugestões, abra uma *issue* aqui no GitHub ou entre em contato com o autor do repositório.
-
----
-
-Se você quiser, posso gerar uma versão em português e/ou inglês, ou adaptar para incluir badges (build, Docker, cobertura de testes) — gostaria que eu fizesse isso?
